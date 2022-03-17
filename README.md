@@ -17,7 +17,7 @@ user can also delete the task once it is don<br/>
 ![](./image/image_3.png)
 ![](./image/image_4.png)
 
-visit : [](https://todo-omega-two.vercel.app/)
+[visit the site](https://todo-omega-two.vercel.app/)
 
 
 
